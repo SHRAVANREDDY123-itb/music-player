@@ -10,5 +10,4 @@ numpy
 flask
 pandas
 pygame
-tkinter
 tensorflow
